@@ -1,30 +1,32 @@
 # Game automation using Machine learning and Genetic algorithm
 The Chrome dino game is created from scratch and implemented machine learning and genetic algorithm to automate the dino to jump automatically based on input from the game.
 
-# Getting Started
-clone the webpage from https://github.com/RogueBugger/RogueBugger.github.io.git and host locally.
+<h1 align="Center">Getting Started</h1>
 
 # Prerequisites
 ```
-Any application to locally host the website.
+Any application to host it locally.
 A browser to visit the page
 ```
 # Example:
 ```
 Go to terminal
-git clone https://github.com/RogueBugger/RogueBugger.github.io.git
+git clone https://github.com/suganhaxor/Dino-Using-ML.git
 host the page in any application
 ```
 # Webpage:
 ```
-open chrome and search the localhost url to load page.
+open chrome and search for the localhost url to load.
 ```
 # Built With
 ```
 Html - The web UI
-Javascript - used to automate the process
-p5.js - used to display the automation process
-Neural Network - used to process the information from the game environment.
+Javascript - to automate the process
+p5.js - to display the automation process
+Neural Network - to process the information from the game environment.
 ```
 # Authors
-Muthukumar
+```
+Muthukumar p
+Sugan M
+```
