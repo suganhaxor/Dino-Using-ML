@@ -1,5 +1,5 @@
 # Game automation using Machine learning and Genetic algorithm
-The Chrome dino game is created from scratch and implemented machine learning and genetic algorithm to automate the dino to jump automatically based on input from the game.
+The Chrome Dino game is created from scratch and implemented using Machine Learning and Genetic Algorithm to automate the gameplay.
 
 <h1 align="Center">Getting Started</h1>
 
